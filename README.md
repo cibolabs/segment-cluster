@@ -5,7 +5,7 @@ The notebook reads the spatial data (within a bounding box), allows selection of
 
 The resulting cluster number can be saved into a new spatial file.
 
-To check out the data you'll need [DVC](https://dvc.org/) installed with the S3 remote added:
+To check out the data you'll need [DVC](https://dvc.org/) installed with Cibo Labs public S3 remote added:
 
 `dvc remote add -d cibo-dvc s3://cibo-dvc/`
 
